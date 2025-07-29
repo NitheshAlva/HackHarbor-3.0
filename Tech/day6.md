@@ -99,6 +99,55 @@ Use case: Microservices, reproducible dev environments
 
 ---
 
+
+## Web Hosting
+
+### 🧩 What is Web Hosting?
+
+Web hosting is a service that allows you to publish your website or web application on the internet. A hosting provider allocates space on a server to store your site's files and make it accessible globally.
+
+### 🏠 Types of Hosting
+
+1. **Shared Hosting**
+   - Share resources like RAM and CPU with many others
+   - Cheap, beginner-friendly
+   - Slower, limited control
+   - e.g., Hostinger, Bluehost
+
+2. **VPS (Virtual Private Server) Hosting**
+   - More privacy and dedicated resources
+   - Better performance
+   - Some technical setup needed
+   - e.g., DigitalOcean, Linode
+
+3. **Dedicated Hosting**
+   - Entire server dedicated to you
+   - Maximum control and performance
+   - Expensive, for high-traffic apps
+   - e.g., OVH, GoDaddy Dedicated Servers
+
+4. **Cloud Hosting**
+   - Runs on multiple servers in the cloud
+   - Scalable, highly available
+   - Pay-as-you-go
+   - e.g., AWS, Google Cloud, Azure
+
+5. **Static Site Hosting**
+   - For websites without dynamic content/databases
+   - Fast and often free
+   - Great for portfolios, blogs
+   - e.g., Vercel, Netlify, GitHub Pages
+
+### 🧑‍💻 How to Choose a Host
+
+Consider these questions:
+- Is my site static or dynamic?
+- Do I need a database?
+- How much traffic do I expect?
+- Do I need backend language support?
+
+---
+
 ## Domains, DNS & HTTPS
 
 ### 🔤 Domain Names & DNS
